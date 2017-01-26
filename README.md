@@ -2,8 +2,10 @@ Intermediate Linux Presentation
 ===============================
 
 This is a presentaiton given by Stephen Haffner (yupyupp) for
-[OSC CSC](csc.osu.edu) and [OSUOSC](opensource.osu.edu) on
-2017.01.18 and 2017.01.19 respectively.
+[OSC CSC](http://security.org.ohio-state.edu) and
+[OSUOSC](opensource.osu.edu) on 2017.01.18 and 
+2017.01.19 respectively. You can view the presentation 
+[here](http://yupyupp.github.io/pres/linux/).
 
 The content of the presentation is contained in
 [content.md](content.md) and the presentation is rendered using
